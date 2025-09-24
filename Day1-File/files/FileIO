@@ -1,0 +1,21 @@
+The basic package for file operations in Java is java.io.
+We use the Scanner class for reading inputs from a file instead of the usual System.in.
+While creating the Scanner object, we pass the file path using a File object.
+Steps for reading from a file:
+Create a File object with the file path.
+Pass the File object to the Scanner constructor.
+Use hasNextLine() to check whether there is more content.
+Use nextLine() to read the file line by line.
+Normally, System.in is used for console inputs, but here we are using a file object.
+If the file does not exist at the mentioned path, a FileNotFoundException occurs.
+We must use exception handling (try-catch or throws) for safety.
+For writing to a file, we use the FileWriter class.
+Methods in FileWriter:
+write(String) → writes data to the file.
+close() → always close the file after writing, otherwise changes may not be saved.
+Summary of important classes:
+File → represents the file or directory path.
+Scanner + File → used for reading content from a file.
+FileWriter → used for writing content into a file.
+Always remember to close the file after reading or writing.
+this line in this text file is written through file writer..
