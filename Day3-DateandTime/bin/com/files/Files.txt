@@ -1,3 +1,0 @@
-Java provides extensive set of in-built exceptions
- • But there may be cases where we may have to define our own exceptions which are application specific
- • Wecancustomize the exception according to our need and purpose
