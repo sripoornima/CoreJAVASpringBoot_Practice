@@ -1,4 +1,4 @@
-# 30Days_Challenge_CoreJAVA
+# 30Days_CoreJAVASpringboot
 Welcome to my **30 Days Code Java Challenge**! 🚀  
 This is my personal journey to brush up, explore, and practice Java concepts every single day.  
 I’ll be uploading one topic per day – from the basics to the cool Java 8+ features.  
