@@ -1,11 +1,10 @@
-# 30Days_CoreJAVASpringboot
-Welcome to my **30 Days Code Java Challenge**! 🚀  
+CoreJAVASpringboot 
 This is my personal journey to brush up, explore, and practice Java concepts every single day.  
 I’ll be uploading one topic per day – from the basics to the cool Java 8+ features.  
 Inside each folder, you’ll find code snippets, explanations (sometimes 😜), and little experiments.
 
 ## 🙌 Why I’m Doing This?
-- To stay consistent with daily coding  
+- To stay persistent with daily coding  
 - To make my fundamentals stronger  
 - To have a nice reference repo for myself and others  
 
